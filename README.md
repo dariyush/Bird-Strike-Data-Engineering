@@ -6,7 +6,8 @@ The Analytics team have a requirement to generate some insights and business rep
 -	The Analytics Team would like to persist all history as they are not yet sure how they may use the data.
 You have been tasked with designing and developing a process to ingest these files on a repeatable basis, store the data, and make the data available for querying by the Analytics team.
 
-## Design and develop a process to ingest and store the data, as well as apply some business rules to enrich the data, and then perform some analysis over the data.  This should include:
+## Design and develop a process to ingest and store the data, as well as apply some business rules to enrich the data, and then perform some analysis over the data.  
+This should include:
 1.	Propose a design to load and store the data as well as make the data available for reporting and analytics.
 2.	Build a process to ingest and store the data, in raw form. This should also consider the changing structure of the files. 
 3.	Implement the following validation rules to help ensure data quality.  Data Analytics want some form of indication for records that don’t meet the data quality requirements:
