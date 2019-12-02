@@ -16,7 +16,7 @@ This should include:
 4.	Implement the following business rules to enrich the data.  
   a.	How can you better model the data in the “Conditions: Precipitation” field to make it easier to use for analysis and reporting?
 
-# Data Augmentation:
+# Data Augmentation
 As part of the assignment, please also answer the following questions (you do not have to develop any code to answer these questions):
 1.	Assuming you could make suggestions to the supplier to change how they provide the data:
   a.	What changes would you propose and why?
@@ -24,7 +24,7 @@ As part of the assignment, please also answer the following questions (you do no
 2.	What additional third-party data sets would you attempt to source to augment the bird strikes data to provide better insights into this data?
   a.	How could you design your solution so that the Analytics Team could be enabled to load these additional data sets without relying on the Data Engineering team to undertake any development?
 
-# Data Modelling:
+# Data Modelling
 1.	Design a data model optimised for presenting this data through a BI tool.  Why would you choose this particular type of data model?
 2.	Provide a design for loading data into this data model.  Note that you do not actually have to populate this data model.
 3.	Propose at least 2 BI tools that could be used and what questions you would ask to evaluate which tool to use (you do not actually have to answer the questions).
